@@ -1,0 +1,4 @@
+flask==3.0.0
+openai==0.28.1
+twilio==8.9.1
+pyngrok==7.0.0
